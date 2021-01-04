@@ -1,0 +1,367 @@
+2021-01-04 07:31:37 'debug' []: MongoDB disconnected!
+2021-01-04 07:31:57 'debug' []: MongoDB connected!
+2021-01-04 07:31:57 'debug' []: MongoDB reconnected!
+2021-01-04 07:31:57 'debug' []: MongoDB connection opened!
+2021-01-04 07:49:57 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:49:58 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 07:50:14 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:14 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:50:16 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:17 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 07:50:22 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:22 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 07:50:37 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:37 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:50:43 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:43 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 07:50:45 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:45 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 07:50:47 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:47 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 07:50:55 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:56 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:50:57 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:50:58 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:51:03 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:03 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:51:06 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:06 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:51:16 'debug' []: Get All Products
+2021-01-04 07:51:26 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:26 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 07:51:32 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:32 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 07:51:37 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:37 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:51:42 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:42 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 07:51:45 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:45 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:51:49 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:49 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 07:51:56 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:58 'debug' []: Server running in production mode on port 5000
+2021-01-04 07:51:59 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:00:55 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:00:55 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:01:02 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:01:02 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:01:05 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:01:05 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:01:08 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:01:08 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:01:29 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:01:29 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:01:40 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:01:40 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:01:47 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:01:47 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:01:55 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:01:55 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:02:10 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:02:10 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:02:11 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:02:12 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:02:14 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:02:14 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:02:27 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:02:29 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:02:29 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:03:01 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:03:01 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:03:08 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:03:09 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:03:11 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:03:11 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:03:59 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:04:00 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:04:47 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:04:47 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:04:51 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:04:51 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:05:26 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:05:27 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:05:28 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:05:31 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:05:31 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:05:38 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:05:38 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:05:41 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:05:41 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:06:12 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:06:13 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:06:54 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:06:54 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:07:08 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:07:09 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:08:53 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:08:54 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:09:11 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:09:12 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:09:20 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:09:20 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:09:48 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:09:48 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:10:42 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:10:43 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:11:03 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:11:04 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:11:28 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:11:28 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:11:37 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:11:37 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:11:42 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:11:42 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:12:11 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:12:11 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:12:57 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:12:58 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:13:14 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:15 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:13:19 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:19 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:13:25 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:25 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:13:29 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:29 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:13:32 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:34 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:35 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:13:37 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:37 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:13:39 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:13:40 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:13:49 'debug' []: Get All Products
+2021-01-04 08:14:50 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:14:50 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:14:53 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:14:54 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:14:58 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:14:58 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:15:01 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:15:02 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:15:13 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:15:13 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:15:25 'debug' []: Get All Products
+2021-01-04 08:16:31 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:16:31 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:17:12 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:17:12 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:18:14 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:18:14 'debug' []: Get All Products
+2021-01-04 08:18:14 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:18:18 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:18:18 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:18:32 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:18:33 'debug' []: Get All Products
+2021-01-04 08:18:33 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:18:40 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:18:40 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:21:28 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:21:29 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:21:45 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:21:45 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:22:10 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:22:10 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:22:19 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:22:19 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:22:26 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:22:26 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:23:26 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:23:27 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:23:31 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:23:31 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:23:34 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:23:35 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:24:45 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:24:45 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:24:49 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:24:49 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:25:42 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:25:42 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:29:29 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:29:29 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:29:56 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:29:57 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:29:59 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:29:59 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:30:15 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:30:15 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:30:17 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:30:18 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:30:35 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:30:35 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:30:39 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:30:39 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:31:08 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:31:08 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:31:13 'debug' []: Get All Products
+2021-01-04 08:31:19 'debug' []: Get All Products
+2021-01-04 08:31:21 'debug' []: Get All Products
+2021-01-04 08:31:24 'debug' []: Get All Products
+2021-01-04 08:32:15 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:32:15 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:32:19 'debug' []: Get All Products
+2021-01-04 08:32:22 'debug' []: Get All Products
+2021-01-04 08:32:24 'debug' []: Get All Products
+2021-01-04 08:32:26 'debug' []: Get All Products
+2021-01-04 08:32:28 'debug' []: Get All Products
+2021-01-04 08:32:31 'debug' []: Get All Products
+2021-01-04 08:32:33 'debug' []: Get All Products
+2021-01-04 08:32:51 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:32:52 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:33:22 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:33:23 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:33:26 'debug' []: Get All Products
+2021-01-04 08:33:28 'debug' []: Get All Products
+2021-01-04 08:33:30 'debug' []: Get All Products
+2021-01-04 08:33:37 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:33:37 'debug' []: Get All Products
+2021-01-04 08:33:37 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:33:46 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:33:47 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:33:50 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:33:50 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:33:58 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:33:58 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:34:02 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:34:02 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:34:18 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:34:18 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:35:10 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:35:10 'debug' []: Get All Products
+2021-01-04 08:35:10 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:35:23 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:35:23 'debug' []: Get All Products
+2021-01-04 08:35:23 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:35:25 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:35:26 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:35:55 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:35:55 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:37:33 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:37:33 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:39:06 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:39:07 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:39:15 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:39:16 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:39:25 'debug' []: Get All Products
+2021-01-04 08:39:49 'debug' []: Get All Products
+2021-01-04 08:39:52 'debug' []: Get All Products
+2021-01-04 08:41:04 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:04 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:41:08 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:09 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:41:18 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:18 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:41:25 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:25 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:41:28 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:28 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:41:35 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:36 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:41:42 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:43 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:41:49 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:49 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:41:59 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:41:59 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:42:04 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:42:05 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:42:34 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:42:35 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:42:45 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:42:45 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:42:49 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:42:50 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:43:08 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:43:08 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:43:24 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:43:24 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:43:28 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:43:28 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:43:39 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:43:39 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:49:17 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:49:17 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:49:26 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:49:32 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:49:32 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 08:49:38 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:49:39 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:49:50 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:49:50 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:49:55 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:49:56 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:49:59 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:49:59 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:50:01 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:50:01 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 08:52:10 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:52:12 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:52:12 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 08:52:27 'debug' []: Server running in production mode on port 5000
+2021-01-04 08:52:27 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:03:25 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:03:25 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:03:41 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:03:41 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:04:30 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:04:30 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:04:35 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:04:35 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:04:43 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:04:43 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:04:50 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:04:50 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:04:52 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:04:52 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:05:00 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:05:00 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:05:02 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:05:02 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:05:05 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:05:06 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:05:07 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:05:08 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:06:00 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:06:00 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:11:42 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:11:42 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:12:05 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:12:05 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:12:11 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:12:12 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:12:39 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:12:39 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:12:46 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:12:48 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:12:49 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:12:56 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:12:57 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:13:32 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:13:33 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:13:46 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:13:47 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:13:52 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:13:52 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:13:55 'debug' []: Get All Products
+2021-01-04 09:14:05 'debug' []: Get All Products
+2021-01-04 09:15:15 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:15:16 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:15:28 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:15:29 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
+2021-01-04 09:15:34 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:15:35 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:15:39 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:15:39 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:15:59 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:16:00 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:16:09 'debug' []: Get All Products
+2021-01-04 09:16:17 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:16:18 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:16:20 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:16:20 'debug' []: Mongo database connected on cluster0-shard-00-02.pcs7i.mongodb.net
+2021-01-04 09:16:37 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:16:38 'debug' []: Mongo database connected on cluster0-shard-00-01.pcs7i.mongodb.net
+2021-01-04 09:16:41 'debug' []: Server running in production mode on port 5000
+2021-01-04 09:16:41 'debug' []: Mongo database connected on cluster0-shard-00-00.pcs7i.mongodb.net
