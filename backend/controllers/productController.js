@@ -23,13 +23,13 @@ const getProducts = asyncHandler(async (req, res) => {
     const count = await Product.countDocuments({ ...keyword })
     const products = await Product.find({ ...keyword }).limit(pageSize).skip(pageSize * (page - 1))
 
-    if (products.length > 0) {
-      let pageContext = {
-        page: page,
-        per_page: Math.ceil(count / pageSize),
-        applied_filter: req.query.keyword ? req.query.keyword : ''
-      }
+    let pageContext = {
+      page: page,
+      per_page: Math.ceil(count / pageSize),
+      applied_filter: req.query.keyword ? req.query.keyword : ''
+    }
 
+    if (products.length > 0) {
       res.status(200).json({
         status: 'success',
         message: 'Products Fetched Successfully',
@@ -39,15 +39,9 @@ const getProducts = asyncHandler(async (req, res) => {
     }
     else {
 
-      let pageContext = {
-        page: page,
-        per_page: Math.ceil(count / pageSize),
-        applied_filter: req.query.keyword ? req.query.keyword : ''
-      }
-
       res.status(200).json({
         status: 'success',
-        message: 'Products Fetched Successfully',
+        message: 'Products Not Exist',
         data: products,
         page_context: pageContext
       });
