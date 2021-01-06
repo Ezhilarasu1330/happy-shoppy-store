@@ -208,38 +208,51 @@ const updateProduct = asyncHandler(async (req, res) => {
 // @route   POST /api/products/:id/reviews
 // @access  Private
 const createProductReview = asyncHandler(async (req, res) => {
-  const { rating, comment } = req.body
-  const product = await Product.findById(req.params.id)
-  if (product) {
-    const alreadyReviewed = product.reviews.find(
-      (r) => r.user.toString() === req.user._id.toString()
-    )
+  try {
+    const { rating, comment } = req.body
+    const product = await Product.findById(req.params.id)
+    if (product) {
+      const alreadyReviewed = product.reviews.find(
+        (r) => r.user.toString() === req.user._id.toString()
+      )
 
-    if (alreadyReviewed) {
-      res.status(400)
-      throw new Error('Product already reviewed')
+      if (alreadyReviewed) {
+        res.status(400).json({
+          status: 'success',
+          message: 'Product already reviewed'
+        });
+      }
+
+      const review = {
+        name: req.user.name,
+        rating: Number(rating),
+        comment,
+        user: req.user._id,
+      }
+
+      product.reviews.push(review)
+      product.numReviews = product.reviews.length
+      product.rating = product.reviews.reduce((acc, item) => item.rating + acc, 0) / product.reviews.length
+      await product.save()
+
+      res.status(201).json({
+        status: 'success',
+        message: 'Review added successfully'
+      });
+    } else {
+      res.status(404).json({
+        status: 'failure',
+        message: 'Product Not Found'
+      });
     }
-
-    const review = {
-      name: req.user.name,
-      rating: Number(rating),
-      comment,
-      user: req.user._id,
-    }
-
-    product.reviews.push(review)
-
-    product.numReviews = product.reviews.length
-
-    product.rating =
-      product.reviews.reduce((acc, item) => item.rating + acc, 0) /
-      product.reviews.length
-
-    await product.save()
-    res.status(201).json({ message: 'Review added' })
-  } else {
-    res.status(404)
-    throw new Error('Product not found')
+  }
+  catch (error) {
+    Logger.error(`${error}`)
+    res.status(500).json({
+      status: 'failure',
+      message: 'Unable to add review to a product due to internal error',
+      errorSummary: error
+    });
   }
 })
 
@@ -247,7 +260,25 @@ const createProductReview = asyncHandler(async (req, res) => {
 // @route   GET /api/products/top
 // @access  Public
 const getTopProducts = asyncHandler(async (req, res) => {
-  const products = await Product.find({}).sort({ rating: -1 }).limit(3)
+  try {
+    const products = await Product.find({}).sort({ rating: -1 }).limit(3)
+
+    res.status(200).json({
+      status: 'success',
+      message: 'Products Fetched Successfully',
+      data: products
+    });
+  }
+  catch (error) {
+    Logger.error(`${error}`)
+    res.status(500).json({
+      status: 'failure',
+      message: 'Unable to get top products due to internal error',
+      errorSummary: error
+    });
+  }
+
+
 
   res.json(products)
 })

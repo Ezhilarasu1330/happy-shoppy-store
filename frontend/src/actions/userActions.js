@@ -36,7 +36,7 @@ export const login = (email, password) => async (dispatch) => {
         const config = { headers: { 'Content-Type': 'application/json', }, }
         const { data } = await axios.post('/api/users/login', { email, password }, config)
 
-        console.log('Login User Data : ', data);
+        console.log('Login User Data : ', data.data);
 
         dispatch({
             type: USER_LOGIN_SUCCESS,
@@ -77,15 +77,15 @@ export const register = (name, email, password) => async (dispatch) => {
 
         dispatch({
             type: USER_REGISTER_SUCCESS,
-            payload: data,
+            payload: data.data,
         })
 
         dispatch({
             type: USER_LOGIN_SUCCESS,
-            payload: data,
+            payload: data.data,
         })
 
-        localStorage.setItem('userInfo', JSON.stringify(data))
+        localStorage.setItem('userInfo', JSON.stringify(data.data))
     } catch (error) {
         dispatch({
             type: USER_REGISTER_FAIL,
@@ -103,12 +103,12 @@ export const getUserDetails = (id) => async (dispatch, getState) => {
         })
 
         const { userLogin: { userInfo } } = getState()
-        const config = { headers: { Authorization: `Bearer ${userInfo.token}` } }
+        const config = { headers: { Authorization: `Bearer ${userInfo.token}`, 'Content-Type': 'application/json' } }
         const { data } = await axios.get(`/api/users/${id}`, config)
 
         dispatch({
             type: USER_DETAILS_SUCCESS,
-            payload: data,
+            payload: data.data,
         })
     } catch (error) {
         const message = error.response && error.response.data.message
@@ -142,13 +142,13 @@ export const updateUserProfile = (user) => async (dispatch, getState) => {
 
         dispatch({
             type: USER_UPDATE_PROFILE_SUCCESS,
-            payload: data,
+            payload: data.data,
         })
         dispatch({
             type: USER_LOGIN_SUCCESS,
-            payload: data,
+            payload: data.data,
         })
-        localStorage.setItem('userInfo', JSON.stringify(data))
+        localStorage.setItem('userInfo', JSON.stringify(data.data))
     } catch (error) {
         const message =
             error.response && error.response.data.message
@@ -173,6 +173,7 @@ export const listUsers = () => async (dispatch, getState) => {
         const { userLogin: { userInfo } } = getState()
         const config = {
             headers: {
+                'Content-Type': 'application/json',
                 Authorization: `Bearer ${userInfo.token}`,
             }
         }
@@ -180,7 +181,7 @@ export const listUsers = () => async (dispatch, getState) => {
 
         dispatch({
             type: USER_LIST_SUCCESS,
-            payload: data,
+            payload: data.data,
         })
     } catch (error) {
         const message = error.response && error.response.data.message
@@ -205,6 +206,7 @@ export const deleteUser = (id) => async (dispatch, getState) => {
         const { userLogin: { userInfo } } = getState()
         const config = {
             headers: {
+                'Content-Type': 'application/json',
                 Authorization: `Bearer ${userInfo.token}`,
             }
         }
