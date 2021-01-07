@@ -138,7 +138,7 @@ export const listMyOrders = () => async (dispatch, getState) => {
 
         const { data } = await axios.get(`/api/orders/myorders`, config)
 
-        dispatch({ type: ORDER_LIST_MY_SUCCESS, payload: data })
+        dispatch({ type: ORDER_LIST_MY_SUCCESS, payload: data.data })
     } catch (error) {
         const message = error.response && error.response.data.message
             ? error.response.data.message
