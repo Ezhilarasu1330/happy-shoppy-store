@@ -50,7 +50,7 @@ cd client
 yarn add
 ```
 
-**3. Create a config.env file in config folder and add the following**
+**3. Create a .env file in config folder and add the following**
 
 ```
 PORT=5000
